@@ -8,7 +8,7 @@ GO
 -- Description:	Libro de Ventas
 -- Ejecucuión:
 /*
-	prueba 4
+	prueba 5
 	declare @hRet varchar(50)='';
 	exec corporativo.dbo.Fiscales @hRet out, 'VntLbr', 'DEMO', '20260326', '20260427', '', '', 'FACT', 7963;
 	select @hRet; 
